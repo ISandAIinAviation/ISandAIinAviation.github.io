@@ -28,9 +28,7 @@ reinforcement learning agent for the scheduling of ground handling equipment, pr
 is now underway - she will stay on in Manuel's team as a PhD Candidate, working primarily for the [AI4REALNET](./projects/ai4realnet.md)
 project in the field of human-machine co-learning and the continuation of her Master's Thesis in the [brAIght](./projects/braight.md) project.
 
-After a day's work, you're most likely to find Julia with a volleyball in hand or - as the green thumb of the group - taking care of her urban jungle at home. The weekends  
-of the warmer months are mostly spent outside on "relaxing" alpine hikes and nights sleeping outside under the stars. While still hiking in winter, she's more likely to
-be spotted on her skis (or next to them).
+After a day's work, you're most likely to find Julia with a volleyball in hand or - as the green thumb of the group - taking care of her urban jungle at home. The weekends of the warmer months are mostly spent outside on "relaxing" alpine hikes and nights sleeping outside under the stars. While still hiking in winter, she's more likely to be spotted on her skis (or next to them).
 
 [LinkedIn](https://www.linkedin.com/in/juliausher/).
 <br>

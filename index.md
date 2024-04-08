@@ -6,7 +6,7 @@ title: Cybernetic Learning Systems
 # **Welcome to the world of AI and Intelligent Systems**
 
 
-This is the personal blog of the research group [**Cybernetic Learning Systems**](https://www.zhaw.ch/en/engineering/institute-zentren/idp/forschungsthemen/operation-in-aviation/), a part 
+This is the personal blog of the research group [**Cybernetic Learning Systems**](https://www.zhaw.ch/en/engineering/institutes-centres/cai/cybernetic-learning-systems-group/), a part 
 of the [**Center for Artifical Intelligence**](https://www.zhaw.ch/en/engineering/institutes-centres/cai/) at the [**Zurich University of Applied Sciences**](https://www.zhaw.ch/en/university/).
 
 > *Dear visitor,
@@ -14,7 +14,7 @@ we are glade to introduce ourselves, our projects, interests and engagements to 
 > motivated to drive innovation in aviation and related industries through the application of artificial intelligence 
 > and development of intelligent systems.* 
 > <br>
-> *Feel free to contact us any time*
+> *Feel free to contact us at cls.cai@zhaw.ch*
 
 <br>
 Our team applies data-driven machine learning and artificial intelligence algorithms to operations research, focusing on industry needs. The interests and competences of our [team]({{site.baseurl}}{% link pages/team.md %}) is vast, exemplified by the list of our [current and past projects]({{site.baseurl}}{% link pages/research.md %}). These projects utilise a broad array of methods, from simple machine learning models to more advanced methods such as deep learning models for computer vision or GANs. More recently, our group has been further expanding our list to include reinforcement learning, which is the direction we are heading with our latest research projects [AI4REALNET](./pages/projects/ai4realnet.md) and [brAIght](./pages/projects/braight.md).
