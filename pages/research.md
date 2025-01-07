@@ -8,6 +8,8 @@ description: Our current and past research projects as well as some selected sup
 
 The research group was or is involved in the following past and ongoing projects:
 
+- [Heim - Reinforcement Learning Control Systems for Heat Pumps](./projects/heim.md)
+- [Meta-Router - Multimodal and Barrier-Free Routing Solutions](./projects/metarouter.md)
 - [BrAIght - Human-Centred AI for efficient operations](./projects/braight.html)
 - [AI4REALNET - AI for Real-world Network operation](./projects/ai4realnet.html)
 - [Meteoblue - High-Resolution Urban Climate ](./projects/urban-climate.html)
