@@ -5,7 +5,7 @@ description: Our trusted brainpower behind the computers!
 ---
 
 # **Who are we?**
-We are a small team consisting of three curious people interested in developing innovative solutions to problems in a diverse range of use-cases. We love to tackle big problems
+We are a small team consisting of five curious people interested in developing innovative solutions to problems in a diverse range of use-cases. We love to tackle big problems
 that require new approaches and live by the motto "If you can think it, you can achieve it". We'd love to take this opportunity to introduce ourselves:
 
 <br>
@@ -13,10 +13,11 @@ that require new approaches and live by the motto "If you can think it, you can 
 ### Dr. Manuel Renold - Team Lead
 <img src="./../pictures/manuel_bw2.png" align="left" height="150" style="margin-right: 20px">
 
-As a physicist, mathematician, computer scientist , former climatologist and simulation oceanographer, Manuel’s major interest are simulated worlds, hyper complex systems, and deep learning. His today’s job makes him an expert in data analysis, simulation technologies, aviation researcher, and an enthusiastic reinforcement machine learner. He thinks a healthy environment, smart transport systems and AI fits well together. 
+As a physicist, mathematician, computer scientist, former climatologist and simulation oceanographer, Manuel’s major interest are simulated worlds, hyper complex systems, and deep learning. His job today and his experience makes him an expert in data analysis, simulation technologies, aviation researcher, and an enthusiastic reinforcement machine learner. He thinks a healthy environment, smart transport systems and AI fits well together. 
 
-[LinkedIn](https://www.linkedin.com/in/manuel-renold-46b07287/).
+[LinkedIn](https://www.linkedin.com/in/manuel-renold-46b07287/)
 <br>
+
 
 ### Julia Usher - PhD Candidate
 <img src="./../pictures/julia_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
@@ -30,8 +31,9 @@ project in the field of human-machine co-learning and the continuation of her Ma
 
 After a day's work, you're most likely to find Julia with a volleyball in hand or - as the green thumb of the group - taking care of her urban jungle at home. The weekends of the warmer months are mostly spent outside on "relaxing" alpine hikes and nights sleeping outside under the stars. While still hiking in winter, she's more likely to be spotted on her skis (or next to them).
 
-[LinkedIn](https://www.linkedin.com/in/juliausher/).
+[LinkedIn](https://www.linkedin.com/in/juliausher/)
 <br>
+
 
 ### Janik Vollenweider - Senior Researcher
 
@@ -49,6 +51,16 @@ flight approval. When he's not sitting behind his desk, he's repairing and tunin
 them at speeds of up to 120 km/h within half a metre of the ground... a lot of crashes included. True to the motto "Fail Fast, Fail Often!"
 
 [LinkedIn](https://www.linkedin.com/in/janik-vollenweider-1144bb1a2)
+<br>
+
+### Marius Huber - Researcher Associate
+<img src="./../pictures/marius_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
+
+Marius began his academic journey with a Bachelor of Science in Aviation at ZHAW, followed by a trainee program at Swissport International AG, where he worked in projects and process engineering. He then transitioned to the role of Project Leader in Engineering at a plastics company, overseeing a variety of projects from customer offers to prototype development.
+
+In 2021, Marius pursued a Master of Science in Business Engineering at ZHAW, working part-time at the Institute of Data Analysis and Process Design. His focus was on operations research, with a particular interest in combinatorial optimization and vehicle routing problems. For his Master’s thesis, he developed a new mathematical model for a Complex Location Routing Problem, addressing real-world challenges. He is now a research associate in our group, contributing to various projects within the team.
+
+Outside of work, he is passionate about endurance sports, including cycling, swimming, and running and in the winter, he enjoys Nordic skiing.
 
 
 ### Oliver Carmignani - Research Assistant
@@ -58,6 +70,10 @@ Oliver concluded his undergraduate studies at the School of Engineering in Switz
 
 Currently, he holds the position of a Data Scientist, leveraging his 3 years of global experience in renewable energy, specifically in hydrology and solar power. Last year, he dedicated 6 months to living and working in Kenya, collaborating with local organizations to advance hydropower initiatives. He plans to expand and pursue these projects in the future.
 Oliver likes to spend his free time in front of the computer programming, producing music or playing chess and other games. When he's not sitting at his computer, he likes to spend his time outdoors with his dog and is a passionate volleyball coach, getting his team fit for competitive season games.
+
+[LinkedIn](https://www.linkedin.com/in/oliver-carmignani/)
+<br>
+
 
 
 <!--The code below is only used as spacer-->
