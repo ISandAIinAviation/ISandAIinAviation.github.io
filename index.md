@@ -3,11 +3,11 @@ layout: default
 title: Cybernetic Learning Systems
 ---
 
-# **Welcome to the world of AI and Intelligent Systems**
+# **Welcome to the world of Cybernetics and Intelligent Systems**
 
 
-This is the personal blog of the research group [**Cybernetic Learning Systems**](https://www.zhaw.ch/en/engineering/institute-zentren/idp/forschungsthemen/operation-in-aviation/), a part 
-of the [**Business Information Systems**](https://www.fhnw.ch/en/degree-programmes/business/msc-bis) at the [**FHNW University of Applied Sciences and Arts Northwestern Switzerland**](https://www.fhnw.ch/en).
+This is the personal blog of the research group **Cybernetic Intelligent Systems**, a part 
+of the [**Business Information Systems**](https://www.fhnw.ch/en/degree-programmes/business/msc-bis) chair at the [**FHNW University of Applied Sciences and Arts Northwestern Switzerland**](https://www.fhnw.ch/en).
 
 > *Dear visitor,
 we are glad to introduce ourselves, our projects, interests and engagements to you. Our team is dedicated and 
